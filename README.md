@@ -1,4 +1,4 @@
-# Data Sscience Project Template
+# Data Science Project Template
 
 ## Project Structure
 
